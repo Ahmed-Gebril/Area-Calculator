@@ -15,3 +15,5 @@ The formula will be saved to a data structure.
 
 ![alt text](https://github.com/Ahmed-Gebril/Area-Calculator/blob/master/area%20calculator1.PNG)
 
+
+![alt text](https://github.com/Ahmed-Gebril/Area-Calculator/blob/master/area%20calculator%203.PNG)
