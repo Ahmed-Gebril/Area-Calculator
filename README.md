@@ -8,10 +8,6 @@ The formula will be saved to a data structure.
 
 
 
-![Screenshot](area calculator 2.PNG)
 
 
-![Screenshot](area calculator 3.png)
-
-![Alt text](relative/path/to/area calculator ?raw=true "Title")
-
+![alt text](https://github.com/Ahmed-Gebril/Area-Calculator/blob/master/area%20calculator%202.PNG)
