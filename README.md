@@ -8,7 +8,7 @@ The formula will be saved to a data structure.
 
 
 
-![Screenshot](area calculator 1.png)
+![Screenshot](area calculator 2.PNG)
 
 
 ![Screenshot](area calculator 3.png)
