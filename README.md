@@ -12,3 +12,6 @@ The formula will be saved to a data structure.
 
 
 ![Screenshot](area calculator 3.png)
+
+![Alt text](relative/path/to/area calculator ?raw=true "Title")
+
